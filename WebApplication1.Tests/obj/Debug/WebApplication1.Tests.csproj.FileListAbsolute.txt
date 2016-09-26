@@ -1,0 +1,106 @@
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\roslyn\csc.exe
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\roslyn\vbc.exe
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\WebApplication1.Tests.dll.config
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\WebApplication1.Tests.dll
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\WebApplication1.Tests.pdb
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\System.Web.Helpers.dll
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\System.Web.Http.dll
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\System.Web.Http.WebHost.dll
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\System.Web.Razor.dll
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\System.Web.WebPages.dll
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\WebApplication1.dll
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\System.Web.Optimization.dll
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\WebApplication1.pdb
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\System.Web.Helpers.xml
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\System.Web.Http.xml
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\System.Web.Http.WebHost.xml
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\System.Web.Razor.xml
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\System.Web.WebPages.xml
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\bin\Debug\System.Web.Optimization.xml
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\obj\Debug\WebApplication1.Tests.csprojResolveAssemblyReference.cache
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\obj\Debug\WebApplication1.Tests.dll
+c:\users\pele\documents\visual studio 2015\Projects\WebApplication1\WebApplication1.Tests\obj\Debug\WebApplication1.Tests.pdb
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\roslyn\csc.exe
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\roslyn\vbc.exe
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\WebApplication1.Tests.dll.config
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\WebApplication1.Tests.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\WebApplication1.Tests.pdb
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\Castle.Core.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\Mono.Cecil.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\Mono.Cecil.Rocks.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\Moq.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\nunit.engine.api.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\nunit.engine.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\nunit.framework.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\NUnit3.TestAdapter.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\System.Web.Http.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\System.Web.Razor.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\WebApplication1.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\Autofac.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\Autofac.Integration.WebApi.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\WebApplication1.pdb
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\Castle.Core.xml
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\Moq.xml
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\nunit.framework.xml
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\System.Web.Http.xml
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\System.Web.Razor.xml
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\Autofac.xml
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\bin\Debug\Autofac.Integration.WebApi.xml
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\obj\Debug\WebApplication1.Tests.csprojResolveAssemblyReference.cache
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\obj\Debug\WebApplication1.Tests.dll
+D:\Amir\Tests\S-GROUP Solutions\WebApplication1.Tests\obj\Debug\WebApplication1.Tests.pdb
